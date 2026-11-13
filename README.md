@@ -59,3 +59,5 @@ Feito por [Ana Eliza](https://github.com/anaelizatx)
 ## Licença
 
 Distribuído sob a licença MIT.
+
+![Gameplay](docs/gameplay.gif)
